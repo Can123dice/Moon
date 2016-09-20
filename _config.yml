@@ -1,14 +1,14 @@
 # Site
-title:              Moon
-bio:                'Minimal, one column jekyll theme.'
-description:        "Moon is a minimal, one column jekyll theme for your blog."
+title:              Candice Cloete
+bio:                'Storysmith|Indie Game Develper|Idea Fairy'
+description:        "Welcome to the personal website for Candice Cloete."
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                http://taylantatli.me/Moon
+url:                http://CandiceCloete.com
 
 # Jekyll
 permalink:          /:title/
@@ -40,18 +40,18 @@ disqus_shortname:   taylantatli
 #email:
 twitter:            username
 facebook:           username
-github:             username
+github:             Can123dice
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-#linkedin:          username
+linkedin:           CandiceCloete
 #xing:              username
-instagram:          username
+instagram:          happysasaurus
 #lastfm:            username
 #tumblr:            username
-#pinterest:         username
+pinterest:         icandicandii
 #foursquare:        username
-steam:              username
+#steam:              username
 #dribbble:          username
-#youtube:           username
+youtube:            Can123dice
 #soundcloud:        username
 #weibo:             username
 #flickr:            username
