@@ -1,7 +1,9 @@
 ---
-layout: project
-title: ﻿RevisionS.Space
+layout: post
+title:  "RevisionS.Space"
+date:   2016-10-27
 excerpt: "a productivity app for revising individual sentences"
+project: true
 comments: false
 ---
 Revisions.space is a productivity app for writers to help with revising individual sentences.
