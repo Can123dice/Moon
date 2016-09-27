@@ -1,7 +1,8 @@
 ---
-layout: project
-title: Consumer Rights Web App
+layout: post
+title: "Consumer Rights Web App"
 excerpt: "a consumer mobile web app"
+project: true
 comments: false
 ---
 
