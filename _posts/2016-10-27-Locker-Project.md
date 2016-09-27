@@ -1,7 +1,9 @@
 ---
-layout: project
-title: The Night locker Project
+layout: post
+title: "The Night locker Project"
+date:   2016-10-27
 excerpt: "A List of Projects"
+project: true
 comments: false
 ---
 ##The Night locker Project
