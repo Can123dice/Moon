@@ -4,7 +4,6 @@ title: About
 date: 2016-09-21
 comments: false
 ---
-
 ##About Candice
 
 Candice is a, nah I can't get the hang of writing about myself in the third person, so here goes...
