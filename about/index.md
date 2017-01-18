@@ -4,17 +4,13 @@ title: About
 date: 2016-09-21
 comments: false
 ---
-##About Candice
+### About Candice
 
-Candice is a, nah I can't get the hang of writing about myself in the third person, so here goes...
-
-I am Candice and I am a pathalogical optimist when it comes to my current bigest interest, Free and Open Software.
-
-In the past I have worked with VB, and I have had pleasant run-ins with both C and C++ but for some reason I detest Java with passionate intensity. At the moment I quite enjoy working with my all time favourite language tool ,Python. We have our moments, but it allows me to let my imagination fly without having to stumble over details of a single.missed.bracket.
+I am Candice and I am a pathological optimist. My main focus at the moment is on finding viable solutions to problems working and middle class people face every day. I do this by taking on small side projects which address structural and spatial inequality, to make South Africa more equitable, and South Africans happier and more efficient.
 
 ### More Information
 
- I enjoy creating music, but suck at the art of performance.
+I am also an indie game designer. I am interested in collaborating with graphic artists, composers, develpers. If you want to collaborate with me, please send me an email.
 
 ### Contact me
 
