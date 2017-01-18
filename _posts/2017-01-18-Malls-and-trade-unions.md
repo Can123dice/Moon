@@ -4,17 +4,11 @@ title:  "Malls and Trade Unions"
 date:   2017-01-18
 excerpt: "Trade Unions should be pushing for local transport reform."
 tag:
-- markdown 
-- syntax
-- sample
-- test
-- jekyll
+- transport 
 comments: true
 ---
 
 ## Malls and Trade Unions
-
-Malls and Trade Unions
 
 Most of the people who work at your local mall use public transport. This is only anecdotal. (it would be interesting to see if there is any existing data on this) On the surface, this would seem surprising, there are no allowances made for commuters. 
 
